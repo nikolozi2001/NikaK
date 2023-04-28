@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🌱 I’m currently learning
-- PHP at [UniLab](https://unilab.iliauni.edu.ge/)
+- Python at [UniLab](https://unilab.iliauni.edu.ge/)
 - Computer Engineering at [IliaUni](//iliauni.edu.ge/)
 - Cyber Security and Ethical Hacking 
 
